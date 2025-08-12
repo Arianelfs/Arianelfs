@@ -3,6 +3,8 @@
 
 **Arianelfs/Arianelfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Sou a Ariane do 1° ano do ensino médio, 15 anos e cor favorita vermelho 😘
+<img width="233" height="374" alt="image" src="https://github.com/user-attachments/assets/940512a9-ae94-4245-a778-7e3d0b9cd6f7" />
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
